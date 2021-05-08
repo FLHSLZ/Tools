@@ -1,0 +1,6 @@
+citylife\signtool\entity\SignResult.class
+citylife\signtool\mode\MySHA256withRSA.class
+citylife\signtool\test\TestSign.class
+citylife\signtool\mode\SignUtils.class
+citylife\signtool\test\TestData.class
+citylife\signtool\config\SecretProperties.class
